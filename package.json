@@ -1,0 +1,16 @@
+{
+  "name": "nextjs-lessons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:julioakira/nextjs-lessons.git",
+  "author": "julioakira <julio.akira.pedroso@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev"
+},
+  "dependencies": {
+    "next": "^12.1.6",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
